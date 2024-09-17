@@ -5,8 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koushik-deb&label=Profile%20views&color=0e75b6&style=flat" alt="koushik-deb" /> </p>
 
+<!---
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koushik-deb" alt="koushik-deb" /></a> </p>
-
+--->
 - 🔭 I’m currently working on **Video Calling App**
 
 - 🌱 I’m currently learning **Microservices, Kafka**
